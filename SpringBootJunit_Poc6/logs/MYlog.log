@@ -1,0 +1,886 @@
+2021-04-30T09:34:08.008Z] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting TestApp on DESKTOP-1OBOCI6 with PID 5748 (started by user in C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6)
+2021-04-30T09:34:08.008Z] [org.springframework.boot.SpringApplication] [main] [675] [INFO ] No active profile set, falling back to default profiles: default
+2021-04-30T09:34:10.010Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:34:11.011Z] [org.springframework.mock.web.MockServletContext] [main] [444] [INFO ] Initializing Spring TestDispatcherServlet ''
+2021-04-30T09:34:11.011Z] [org.springframework.web.servlet.FrameworkServlet] [main] [524] [INFO ] Initializing Servlet ''
+2021-04-30T09:34:11.011Z] [org.springframework.web.servlet.FrameworkServlet] [main] [546] [INFO ] Completed initialization in 24 ms
+2021-04-30T09:34:11.011Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started TestApp in 3.656 seconds (JVM running for 6.126)
+2021-04-30T09:34:11.011Z] [com.prachi.controller.UserController] [main] [87] [INFO ] user searched by Firstname
+2021-04-30T09:34:12.012Z] [com.prachi.controller.UserController] [main] [67] [INFO ] User Registered Successfully
+2021-04-30T09:34:12.012Z] [com.prachi.controller.UserController] [main] [55] [INFO ] Getting All users
+2021-04-30T09:34:12.012Z] [com.prachi.controller.UserController] [main] [92] [INFO ] User searched By zipcode
+2021-04-30T09:34:12.012Z] [com.prachi.controller.UserController] [main] [74] [INFO ] User Updated successfully
+2021-04-30T09:34:12.012Z] [com.prachi.controller.UserController] [main] [81] [INFO ] User deleted successfully
+2021-04-30T09:34:12.012Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-2] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:34:52.052Z] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting TestApp on DESKTOP-1OBOCI6 with PID 14836 (started by user in C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6)
+2021-04-30T09:34:52.052Z] [org.springframework.boot.SpringApplication] [main] [675] [INFO ] No active profile set, falling back to default profiles: default
+2021-04-30T09:34:55.055Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:34:55.055Z] [org.springframework.mock.web.MockServletContext] [main] [444] [INFO ] Initializing Spring TestDispatcherServlet ''
+2021-04-30T09:34:55.055Z] [org.springframework.web.servlet.FrameworkServlet] [main] [524] [INFO ] Initializing Servlet ''
+2021-04-30T09:34:55.055Z] [org.springframework.web.servlet.FrameworkServlet] [main] [546] [INFO ] Completed initialization in 25 ms
+2021-04-30T09:34:55.055Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started TestApp in 3.565 seconds (JVM running for 5.492)
+2021-04-30T09:34:56.056Z] [com.prachi.controller.UserController] [main] [87] [INFO ] user searched by Firstname
+2021-04-30T09:34:56.056Z] [com.prachi.controller.UserController] [main] [55] [INFO ] Getting All users
+2021-04-30T09:34:56.056Z] [com.prachi.controller.UserController] [main] [92] [INFO ] User searched By zipcode
+2021-04-30T09:34:56.056Z] [com.prachi.controller.UserController] [main] [74] [INFO ] User Updated successfully
+2021-04-30T09:34:56.056Z] [com.prachi.controller.UserController] [main] [81] [INFO ] User deleted successfully
+2021-04-30T09:34:56.056Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-2] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:35:20.020Z] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting TestApp on DESKTOP-1OBOCI6 with PID 16784 (started by user in C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6)
+2021-04-30T09:35:20.020Z] [org.springframework.boot.SpringApplication] [main] [675] [INFO ] No active profile set, falling back to default profiles: default
+2021-04-30T09:35:23.023Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:35:23.023Z] [org.springframework.mock.web.MockServletContext] [main] [444] [INFO ] Initializing Spring TestDispatcherServlet ''
+2021-04-30T09:35:23.023Z] [org.springframework.web.servlet.FrameworkServlet] [main] [524] [INFO ] Initializing Servlet ''
+2021-04-30T09:35:23.023Z] [org.springframework.web.servlet.FrameworkServlet] [main] [546] [INFO ] Completed initialization in 26 ms
+2021-04-30T09:35:23.023Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started TestApp in 3.466 seconds (JVM running for 5.605)
+2021-04-30T09:35:24.024Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-2] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:35:41.041Z] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting TestApp on DESKTOP-1OBOCI6 with PID 9292 (started by user in C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6)
+2021-04-30T09:35:41.041Z] [org.springframework.boot.SpringApplication] [main] [675] [INFO ] No active profile set, falling back to default profiles: default
+2021-04-30T09:35:44.044Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:35:44.044Z] [org.springframework.mock.web.MockServletContext] [main] [444] [INFO ] Initializing Spring TestDispatcherServlet ''
+2021-04-30T09:35:44.044Z] [org.springframework.web.servlet.FrameworkServlet] [main] [524] [INFO ] Initializing Servlet ''
+2021-04-30T09:35:44.044Z] [org.springframework.web.servlet.FrameworkServlet] [main] [546] [INFO ] Completed initialization in 24 ms
+2021-04-30T09:35:44.044Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started TestApp in 3.794 seconds (JVM running for 5.65)
+2021-04-30T09:35:45.045Z] [com.prachi.controller.UserController] [main] [67] [INFO ] User Registered Successfully
+2021-04-30T09:35:45.045Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-2] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:46:53.053Z] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting MainApp on DESKTOP-1OBOCI6 with PID 15648 (C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6\target\classes started by user in C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6)
+2021-04-30T09:46:53.053Z] [org.springframework.boot.SpringApplication] [main] [675] [INFO ] No active profile set, falling back to default profiles: default
+2021-04-30T09:46:55.055Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [126] [INFO ] Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-04-30T09:46:55.055Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [182] [INFO ] Finished Spring Data repository scanning in 84ms. Found 1 repository interfaces.
+2021-04-30T09:46:56.056Z] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [main] [330] [INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a3f39039] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-30T09:46:57.057Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [90] [INFO ] Tomcat initialized with port(s): 8080 (http)
+2021-04-30T09:46:57.057Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+2021-04-30T09:46:57.057Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.16]
+2021-04-30T09:46:57.057Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_181/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_181/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_181/bin/../jre/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\.dotnet\tools;C:\Users\user\AppData\Local\atom\bin;C:\Users\user\AppData\Roaming\npm;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\.dotnet\tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;C:\WINDOWS\System32;;.]
+2021-04-30T09:46:57.057Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+2021-04-30T09:46:57.057Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 4166 ms
+2021-04-30T09:46:57.057Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+2021-04-30T09:46:58.058Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+2021-04-30T09:46:58.058Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-04-30T09:46:58.058Z] [org.hibernate.Version] [main] [46] [INFO ] HHH000412: Hibernate Core {5.3.7.Final}
+2021-04-30T09:46:58.058Z] [org.hibernate.cfg.Environment] [main] [213] [INFO ] HHH000206: hibernate.properties not found
+2021-04-30T09:46:59.059Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [49] [INFO ] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration boolean -> org.hibernate.type.BooleanType@60c1663c
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration boolean -> org.hibernate.type.BooleanType@60c1663c
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@60c1663c
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@37e69c43
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration true_false -> org.hibernate.type.TrueFalseType@3d0cac1f
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration yes_no -> org.hibernate.type.YesNoType@518ddd3b
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration byte -> org.hibernate.type.ByteType@3178219a
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration byte -> org.hibernate.type.ByteType@3178219a
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@3178219a
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration character -> org.hibernate.type.CharacterType@3ba348ca
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration char -> org.hibernate.type.CharacterType@3ba348ca
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@3ba348ca
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration short -> org.hibernate.type.ShortType@38cedb7d
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration short -> org.hibernate.type.ShortType@38cedb7d
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Short -> org.hibernate.type.ShortType@38cedb7d
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration integer -> org.hibernate.type.IntegerType@2db2a05f
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration int -> org.hibernate.type.IntegerType@2db2a05f
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@2db2a05f
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration long -> org.hibernate.type.LongType@4b960b5b
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration long -> org.hibernate.type.LongType@4b960b5b
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Long -> org.hibernate.type.LongType@4b960b5b
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration float -> org.hibernate.type.FloatType@1e4c6583
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration float -> org.hibernate.type.FloatType@1e4c6583
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Float -> org.hibernate.type.FloatType@1e4c6583
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration double -> org.hibernate.type.DoubleType@1acb74ad
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration double -> org.hibernate.type.DoubleType@1acb74ad
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@1acb74ad
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@2cd4e16a
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@2cd4e16a
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration big_integer -> org.hibernate.type.BigIntegerType@33a55bd8
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@33a55bd8
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration string -> org.hibernate.type.StringType@7668892a
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.String -> org.hibernate.type.StringType@7668892a
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration nstring -> org.hibernate.type.StringNVarcharType@4364863
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@609e57da
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration url -> org.hibernate.type.UrlType@228bda54
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.net.URL -> org.hibernate.type.UrlType@228bda54
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration Duration -> org.hibernate.type.DurationType@4d0e54e0
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.Duration -> org.hibernate.type.DurationType@4d0e54e0
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration Instant -> org.hibernate.type.InstantType@21a9a705
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.Instant -> org.hibernate.type.InstantType@21a9a705
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@3fd05b3e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@3fd05b3e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration LocalDate -> org.hibernate.type.LocalDateType@76d72b5b
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@76d72b5b
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@33379242
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@33379242
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@44fdce3c
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@44fdce3c
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@16aed49f
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@16aed49f
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@493b01ef
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@493b01ef
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration date -> org.hibernate.type.DateType@57ad1178
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Date -> org.hibernate.type.DateType@57ad1178
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration time -> org.hibernate.type.TimeType@5b5dce5c
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Time -> org.hibernate.type.TimeType@5b5dce5c
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration timestamp -> org.hibernate.type.TimestampType@7da34b26
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@7da34b26
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.Date -> org.hibernate.type.TimestampType@7da34b26
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@753fd7a1
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration calendar -> org.hibernate.type.CalendarType@3bf54172
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@3bf54172
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@3bf54172
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@6d091cad
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration locale -> org.hibernate.type.LocaleType@76fe6cdc
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@76fe6cdc
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration currency -> org.hibernate.type.CurrencyType@35c4e864
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@35c4e864
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration timezone -> org.hibernate.type.TimeZoneType@6a9344f5
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@6a9344f5
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration class -> org.hibernate.type.ClassType@6ef60295
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Class -> org.hibernate.type.ClassType@6ef60295
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@3252747e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@3252747e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@17e9bc9e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration binary -> org.hibernate.type.BinaryType@9301672
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration byte[] -> org.hibernate.type.BinaryType@9301672
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration [B -> org.hibernate.type.BinaryType@9301672
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@1668919e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@1668919e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@1668919e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration row_version -> org.hibernate.type.RowVersionType@b67cc70
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration image -> org.hibernate.type.ImageType@6680f714
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration characters -> org.hibernate.type.CharArrayType@65bad087
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration char[] -> org.hibernate.type.CharArrayType@65bad087
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration [C -> org.hibernate.type.CharArrayType@65bad087
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@7fd987ef
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@7fd987ef
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@7fd987ef
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration text -> org.hibernate.type.TextType@2fe74516
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration ntext -> org.hibernate.type.NTextType@6807a356
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration blob -> org.hibernate.type.BlobType@7a3b7122
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@7a3b7122
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@52b46d52
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration clob -> org.hibernate.type.ClobType@1fbf088b
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@1fbf088b
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration nclob -> org.hibernate.type.NClobType@1d8b0500
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@1d8b0500
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@650c405c
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@68f6e55d
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration serializable -> org.hibernate.type.SerializableType@2db1b657
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration object -> org.hibernate.type.ObjectType@4a92c6a9
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@4a92c6a9
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@383caf89
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@64c781a9
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@71ed560f
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@5b88b8e
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@58253c57
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@b73433
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@1bf14704
+2021-04-30T09:46:59.059Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@5a545b0f
+2021-04-30T09:46:59.059Z] [org.hibernate.dialect.Dialect] [main] [157] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2021-04-30T09:46:59.059Z] [org.hibernate.type.spi.TypeConfiguration] [main] [142] [DEBUG] Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@5d1b1c2a] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@6397248c]
+2021-04-30T09:46:59.059Z] [org.hibernate.type.spi.TypeConfiguration] [main] [147] [DEBUG] Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@5d1b1c2a] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@2a0ea492]
+2021-04-30T09:47:00.000Z] [org.hibernate.type.spi.TypeConfiguration] [main] [195] [TRACE] Handling #sessionFactoryCreated from [org.hibernate.internal.SessionFactoryImpl@2a0ea492] for TypeConfiguration
+2021-04-30T09:47:00.000Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [415] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-30T09:47:02.002Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration] [main] [236] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-30T09:47:02.002Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [main] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-04-30T09:47:03.003Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-30T09:47:03.003Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [main] [160] [INFO ] Context refreshed
+2021-04-30T09:47:04.004Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [main] [163] [INFO ] Found 1 custom documentation plugin(s)
+2021-04-30T09:47:04.004Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [main] [41] [INFO ] Scanning for api listing references
+2021-04-30T09:47:04.004Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [204] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-30T09:47:04.004Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started MainApp in 12.061 seconds (JVM running for 12.7)
+2021-04-30T09:47:10.010Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-30T09:47:10.010Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [524] [INFO ] Initializing Servlet 'dispatcherServlet'
+2021-04-30T09:47:10.010Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [546] [INFO ] Completed initialization in 22 ms
+2021-04-30T09:48:12.012Z] [com.prachi.controller.UserController] [http-nio-8080-exec-3] [55] [INFO ] Getting All users
+2021-04-30T09:48:12.012Z] [org.hibernate.hql.internal.QueryTranslatorFactoryInitiator] [http-nio-8080-exec-3] [47] [INFO ] HHH000397: Using ASTQueryTranslatorFactory
+2021-04-30T09:48:13.013Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-3] [94] [DEBUG] select user0_.id as id1_0_, user0_.city as city2_0_, user0_.country as country3_0_, user0_.email as email4_0_, user0_.first_name as first_na5_0_, user0_.last_name as last_nam6_0_, user0_.phone_number as phone_nu7_0_, user0_.state as state8_0_, user0_.zip_code as zip_code9_0_ from user_poc6 user0_
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [1]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [mk@gmail.com]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [John]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087345672]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421304]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [5]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [s@w]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087345670]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T09:48:13.013Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421304]
+2021-04-30T09:50:21.021Z] [com.prachi.controller.UserController] [http-nio-8080-exec-9] [55] [INFO ] Getting All users
+2021-04-30T09:50:21.021Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-9] [94] [DEBUG] select user0_.id as id1_0_, user0_.city as city2_0_, user0_.country as country3_0_, user0_.email as email4_0_, user0_.first_name as first_na5_0_, user0_.last_name as last_nam6_0_, user0_.phone_number as phone_nu7_0_, user0_.state as state8_0_, user0_.zip_code as zip_code9_0_ from user_poc6 user0_
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [1]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [mk@gmail.com]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [John]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087345672]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421304]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [5]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [s@w]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087345670]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T09:50:21.021Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-9] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421304]
+2021-04-30T09:54:12.012Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-2] [94] [DEBUG] select next_val as id_val from hibernate_sequence for update
+2021-04-30T09:54:12.012Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-2] [94] [DEBUG] update hibernate_sequence set next_val= ? where next_val=?
+2021-04-30T09:54:12.012Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-2] [94] [DEBUG] insert into user_poc6 (city, country, email, first_name, last_name, phone_number, state, zip_code, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [1] as [VARCHAR] - [kalyan]
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [3] as [VARCHAR] - [ss@gmail.com]
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Sagar]
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Singh]
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087345670]
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421304]
+2021-04-30T09:54:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [9] as [BIGINT] - [6]
+2021-04-30T09:54:12.012Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8080-exec-2] [137] [WARN ] SQL Error: 1062, SQLState: 23000
+2021-04-30T09:54:12.012Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8080-exec-2] [142] [ERROR] Duplicate entry '9087345670' for key 'user_poc6.UK_1xhlkchnm672aov9y7tyqbi67'
+2021-04-30T09:54:12.012Z] [org.hibernate.internal.ExceptionMapperStandardImpl] [http-nio-8080-exec-2] [39] [ERROR] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2021-04-30T09:54:33.033Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-4] [94] [DEBUG] select next_val as id_val from hibernate_sequence for update
+2021-04-30T09:54:33.033Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-4] [94] [DEBUG] update hibernate_sequence set next_val= ? where next_val=?
+2021-04-30T09:54:33.033Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-4] [94] [DEBUG] insert into user_poc6 (city, country, email, first_name, last_name, phone_number, state, zip_code, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [3] as [VARCHAR] - [ss@gmail.com]
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Sagar]
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Singh]
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087345672]
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421304]
+2021-04-30T09:54:33.033Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-4] [65] [TRACE] binding parameter [9] as [BIGINT] - [7]
+2021-04-30T09:54:33.033Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8080-exec-4] [137] [WARN ] SQL Error: 1062, SQLState: 23000
+2021-04-30T09:54:33.033Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8080-exec-4] [142] [ERROR] Duplicate entry '9087345672' for key 'user_poc6.UK_1xhlkchnm672aov9y7tyqbi67'
+2021-04-30T09:54:33.033Z] [org.hibernate.internal.ExceptionMapperStandardImpl] [http-nio-8080-exec-4] [39] [ERROR] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2021-04-30T09:54:55.055Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-5] [94] [DEBUG] select next_val as id_val from hibernate_sequence for update
+2021-04-30T09:54:55.055Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-5] [94] [DEBUG] update hibernate_sequence set next_val= ? where next_val=?
+2021-04-30T09:54:55.055Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-5] [94] [DEBUG] insert into user_poc6 (city, country, email, first_name, last_name, phone_number, state, zip_code, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [3] as [VARCHAR] - [ss@gmail.com]
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Sagar]
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Singh]
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087345671]
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421304]
+2021-04-30T09:54:55.055Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-5] [65] [TRACE] binding parameter [9] as [BIGINT] - [8]
+2021-04-30T09:54:55.055Z] [com.prachi.controller.UserController] [http-nio-8080-exec-5] [67] [INFO ] User Registered Successfully
+2021-04-30T09:55:56.056Z] [com.prachi.controller.UserController] [http-nio-8080-exec-8] [92] [INFO ] User searched By zipcode
+2021-04-30T09:55:56.056Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-8] [94] [DEBUG] select user0_.id as id1_0_, user0_.city as city2_0_, user0_.country as country3_0_, user0_.email as email4_0_, user0_.first_name as first_na5_0_, user0_.last_name as last_nam6_0_, user0_.phone_number as phone_nu7_0_, user0_.state as state8_0_, user0_.zip_code as zip_code9_0_ from user_poc6 user0_ where user0_.zip_code=?
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-8] [65] [TRACE] binding parameter [1] as [VARCHAR] - [421304]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [1]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [mk@gmail.com]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [John]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087345672]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421304]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [5]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [s@w]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087345670]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421304]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [8]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [Thane]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [ss@gmail.com]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [Sagar]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Singh]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087345671]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T09:55:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-8] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421304]
+2021-04-30T09:57:01.001Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-2] [94] [DEBUG] select next_val as id_val from hibernate_sequence for update
+2021-04-30T09:57:01.001Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-2] [94] [DEBUG] update hibernate_sequence set next_val= ? where next_val=?
+2021-04-30T09:57:01.001Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-2] [94] [DEBUG] insert into user_poc6 (city, country, email, first_name, last_name, phone_number, state, zip_code, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [3] as [VARCHAR] - [pk@gmail.com]
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Prachi]
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Koyande]
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087345673]
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421308]
+2021-04-30T09:57:01.001Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-2] [65] [TRACE] binding parameter [9] as [BIGINT] - [9]
+2021-04-30T09:57:01.001Z] [com.prachi.controller.UserController] [http-nio-8080-exec-2] [67] [INFO ] User Registered Successfully
+2021-04-30T09:57:19.019Z] [com.prachi.controller.UserController] [http-nio-8080-exec-10] [92] [INFO ] User searched By zipcode
+2021-04-30T09:57:19.019Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-10] [94] [DEBUG] select user0_.id as id1_0_, user0_.city as city2_0_, user0_.country as country3_0_, user0_.email as email4_0_, user0_.first_name as first_na5_0_, user0_.last_name as last_nam6_0_, user0_.phone_number as phone_nu7_0_, user0_.state as state8_0_, user0_.zip_code as zip_code9_0_ from user_poc6 user0_ where user0_.zip_code=?
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-10] [65] [TRACE] binding parameter [1] as [VARCHAR] - [421308]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [9]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [Thane]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [pk@gmail.com]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [Prachi]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087345673]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T09:57:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-10] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421308]
+2021-04-30T10:15:36.036Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8080-exec-3] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8080-exec-3] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [mk@gmail.com]
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [John]
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345672]
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T10:15:36.036Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8080-exec-3] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421304]
+2021-04-30T10:53:53.053Z] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting TestApp on DESKTOP-1OBOCI6 with PID 10112 (started by user in C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6)
+2021-04-30T10:53:53.053Z] [org.springframework.boot.SpringApplication] [main] [675] [INFO ] No active profile set, falling back to default profiles: default
+2021-04-30T10:53:56.056Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-30T10:53:56.056Z] [org.springframework.mock.web.MockServletContext] [main] [444] [INFO ] Initializing Spring TestDispatcherServlet ''
+2021-04-30T10:53:56.056Z] [org.springframework.web.servlet.FrameworkServlet] [main] [524] [INFO ] Initializing Servlet ''
+2021-04-30T10:53:56.056Z] [org.springframework.web.servlet.FrameworkServlet] [main] [546] [INFO ] Completed initialization in 27 ms
+2021-04-30T10:53:56.056Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started TestApp in 4.052 seconds (JVM running for 6.163)
+2021-04-30T10:53:57.057Z] [com.prachi.controller.UserController] [main] [87] [INFO ] user searched by Firstname
+2021-04-30T10:53:57.057Z] [com.prachi.controller.UserController] [main] [67] [INFO ] User Registered Successfully
+2021-04-30T10:53:57.057Z] [com.prachi.controller.UserController] [main] [55] [INFO ] Getting All users
+2021-04-30T10:53:57.057Z] [com.prachi.controller.UserController] [main] [92] [INFO ] User searched By zipcode
+2021-04-30T10:53:57.057Z] [com.prachi.controller.UserController] [main] [74] [INFO ] User Updated successfully
+2021-04-30T10:53:57.057Z] [com.prachi.controller.UserController] [main] [81] [INFO ] User deleted successfully
+2021-04-30T10:53:58.058Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-2] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-30T11:09:40.040Z] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting MainApp on DESKTOP-1OBOCI6 with PID 8048 (C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6\target\classes started by user in C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6)
+2021-04-30T11:09:40.040Z] [org.springframework.boot.SpringApplication] [main] [675] [INFO ] No active profile set, falling back to default profiles: default
+2021-04-30T11:09:42.042Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [126] [INFO ] Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-04-30T11:09:42.042Z] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [main] [182] [INFO ] Finished Spring Data repository scanning in 104ms. Found 1 repository interfaces.
+2021-04-30T11:09:42.042Z] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [main] [330] [INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5a2c8830] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-30T11:09:43.043Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [90] [INFO ] Tomcat initialized with port(s): 8081 (http)
+2021-04-30T11:09:43.043Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+2021-04-30T11:09:43.043Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.16]
+2021-04-30T11:09:43.043Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_181/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_181/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_181/bin/../jre/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\Java\jdk-15.0.1\bin;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\.dotnet\tools;C:\Users\user\AppData\Local\atom\bin;C:\Users\user\AppData\Roaming\npm;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\.dotnet\tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;C:\WINDOWS\System32;;.]
+2021-04-30T11:09:44.044Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+2021-04-30T11:09:44.044Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3852 ms
+2021-04-30T11:09:44.044Z] [com.zaxxer.hikari.HikariDataSource] [main] [110] [INFO ] HikariPool-1 - Starting...
+2021-04-30T11:09:44.044Z] [com.zaxxer.hikari.HikariDataSource] [main] [123] [INFO ] HikariPool-1 - Start completed.
+2021-04-30T11:09:44.044Z] [org.hibernate.jpa.internal.util.LogHelper] [main] [31] [INFO ] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-04-30T11:09:44.044Z] [org.hibernate.Version] [main] [46] [INFO ] HHH000412: Hibernate Core {5.3.7.Final}
+2021-04-30T11:09:44.044Z] [org.hibernate.cfg.Environment] [main] [213] [INFO ] HHH000206: hibernate.properties not found
+2021-04-30T11:09:45.045Z] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main] [49] [INFO ] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration boolean -> org.hibernate.type.BooleanType@7bf01cb
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration boolean -> org.hibernate.type.BooleanType@7bf01cb
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@7bf01cb
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@539a138b
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration true_false -> org.hibernate.type.TrueFalseType@7b477141
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration yes_no -> org.hibernate.type.YesNoType@33a55bd8
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration byte -> org.hibernate.type.ByteType@7668892a
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration byte -> org.hibernate.type.ByteType@7668892a
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@7668892a
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration character -> org.hibernate.type.CharacterType@267cde2e
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration char -> org.hibernate.type.CharacterType@267cde2e
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@267cde2e
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration short -> org.hibernate.type.ShortType@1f1cddf3
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration short -> org.hibernate.type.ShortType@1f1cddf3
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Short -> org.hibernate.type.ShortType@1f1cddf3
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration integer -> org.hibernate.type.IntegerType@e111c7c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration int -> org.hibernate.type.IntegerType@e111c7c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@e111c7c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration long -> org.hibernate.type.LongType@58f4b31a
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration long -> org.hibernate.type.LongType@58f4b31a
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Long -> org.hibernate.type.LongType@58f4b31a
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration float -> org.hibernate.type.FloatType@1682c08c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration float -> org.hibernate.type.FloatType@1682c08c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Float -> org.hibernate.type.FloatType@1682c08c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration double -> org.hibernate.type.DoubleType@77fa9381
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration double -> org.hibernate.type.DoubleType@77fa9381
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@77fa9381
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@2b1cd7bc
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@2b1cd7bc
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration big_integer -> org.hibernate.type.BigIntegerType@7d17ee50
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@7d17ee50
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration string -> org.hibernate.type.StringType@5b20706
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.String -> org.hibernate.type.StringType@5b20706
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration nstring -> org.hibernate.type.StringNVarcharType@6c479fdf
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@ffd4cba
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration url -> org.hibernate.type.UrlType@708eb310
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.net.URL -> org.hibernate.type.UrlType@708eb310
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration Duration -> org.hibernate.type.DurationType@6c8dbf56
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.Duration -> org.hibernate.type.DurationType@6c8dbf56
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration Instant -> org.hibernate.type.InstantType@45adc393
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.Instant -> org.hibernate.type.InstantType@45adc393
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@68699afc
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@68699afc
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration LocalDate -> org.hibernate.type.LocalDateType@adcfad9
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@adcfad9
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@3b2553d9
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@3b2553d9
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@3b95a6db
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@3b95a6db
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@7c663eaf
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@7c663eaf
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@3c9c6245
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@3c9c6245
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration date -> org.hibernate.type.DateType@3d20e575
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Date -> org.hibernate.type.DateType@3d20e575
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration time -> org.hibernate.type.TimeType@36b9cb99
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Time -> org.hibernate.type.TimeType@36b9cb99
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration timestamp -> org.hibernate.type.TimestampType@4ceff87d
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@4ceff87d
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.Date -> org.hibernate.type.TimestampType@4ceff87d
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@2577a95d
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration calendar -> org.hibernate.type.CalendarType@68d6d775
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@68d6d775
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@68d6d775
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@38b3f208
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration locale -> org.hibernate.type.LocaleType@3b4a1a75
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@3b4a1a75
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration currency -> org.hibernate.type.CurrencyType@3eb292cd
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@3eb292cd
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration timezone -> org.hibernate.type.TimeZoneType@1c3259fa
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@1c3259fa
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration class -> org.hibernate.type.ClassType@d675f9f
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Class -> org.hibernate.type.ClassType@d675f9f
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@58b5a2f3
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@58b5a2f3
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@7327a447
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration binary -> org.hibernate.type.BinaryType@11d045b4
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration byte[] -> org.hibernate.type.BinaryType@11d045b4
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration [B -> org.hibernate.type.BinaryType@11d045b4
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@798256c5
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@798256c5
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@798256c5
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration row_version -> org.hibernate.type.RowVersionType@428bdd72
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration image -> org.hibernate.type.ImageType@748ac6f3
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration characters -> org.hibernate.type.CharArrayType@65a9ea3c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration char[] -> org.hibernate.type.CharArrayType@65a9ea3c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration [C -> org.hibernate.type.CharArrayType@65a9ea3c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@43c57161
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@43c57161
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@43c57161
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration text -> org.hibernate.type.TextType@30c3ae63
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration ntext -> org.hibernate.type.NTextType@60990e5c
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration blob -> org.hibernate.type.BlobType@4a92c6a9
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@4a92c6a9
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@383caf89
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration clob -> org.hibernate.type.ClobType@5a545b0f
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@5a545b0f
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration nclob -> org.hibernate.type.NClobType@14c93774
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@14c93774
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@14924f41
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@45658133
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration serializable -> org.hibernate.type.SerializableType@111d5c97
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration object -> org.hibernate.type.ObjectType@6ff0b1cc
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@6ff0b1cc
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@3ba3d4b6
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@51b77cdf
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@441fbe89
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@6088451e
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@45ab3bdd
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@2f10f633
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@1642eeae
+2021-04-30T11:09:45.045Z] [org.hibernate.type.BasicTypeRegistry] [main] [156] [DEBUG] Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@3440e9cd
+2021-04-30T11:09:45.045Z] [org.hibernate.dialect.Dialect] [main] [157] [INFO ] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2021-04-30T11:09:45.045Z] [org.hibernate.type.spi.TypeConfiguration] [main] [142] [DEBUG] Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@5e26f1ed] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@39666e42]
+2021-04-30T11:09:46.046Z] [org.hibernate.type.spi.TypeConfiguration] [main] [147] [DEBUG] Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@5e26f1ed] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@740a0d5e]
+2021-04-30T11:09:46.046Z] [org.hibernate.type.spi.TypeConfiguration] [main] [195] [TRACE] Handling #sessionFactoryCreated from [org.hibernate.internal.SessionFactoryImpl@740a0d5e] for TypeConfiguration
+2021-04-30T11:09:46.046Z] [org.springframework.orm.jpa.AbstractEntityManagerFactoryBean] [main] [415] [INFO ] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-30T11:09:47.047Z] [org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration] [main] [236] [WARN ] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-30T11:09:47.047Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [main] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-04-30T11:09:48.048Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-30T11:09:48.048Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [main] [160] [INFO ] Context refreshed
+2021-04-30T11:09:48.048Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [main] [163] [INFO ] Found 1 custom documentation plugin(s)
+2021-04-30T11:09:48.048Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [main] [41] [INFO ] Scanning for api listing references
+2021-04-30T11:09:49.049Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [204] [INFO ] Tomcat started on port(s): 8081 (http) with context path ''
+2021-04-30T11:09:49.049Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started MainApp in 9.782 seconds (JVM running for 10.446)
+2021-04-30T11:09:59.059Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8081-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-30T11:09:59.059Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8081-exec-1] [524] [INFO ] Initializing Servlet 'dispatcherServlet'
+2021-04-30T11:09:59.059Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8081-exec-1] [546] [INFO ] Completed initialization in 15 ms
+2021-04-30T11:25:58.058Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-9] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [mk@gmail.com]
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [John]
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345672]
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T11:25:58.058Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421304]
+2021-04-30T11:26:22.022Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-3] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [mk@gmail.com]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [John]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345672]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421304]
+2021-04-30T11:26:22.022Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-3] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [3] as [VARCHAR] - [pk@gmail.com]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [4] as [VARCHAR] - [John]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Koyande]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087345673]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421308]
+2021-04-30T11:26:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [9] as [BIGINT] - [1]
+2021-04-30T11:26:22.022Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-3] [137] [WARN ] SQL Error: 1062, SQLState: 23000
+2021-04-30T11:26:22.022Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-3] [142] [ERROR] Duplicate entry 'pk@gmail.com' for key 'user_poc6.UK_gx6yg32ng7dksnd7p08sngoo3'
+2021-04-30T11:26:22.022Z] [org.hibernate.internal.ExceptionMapperStandardImpl] [http-nio-8081-exec-3] [39] [ERROR] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2021-04-30T11:26:41.041Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-2] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-2] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-2] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-2] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [mk@gmail.com]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-2] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [John]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-2] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-2] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345672]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-2] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-2] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421304]
+2021-04-30T11:26:41.041Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-2] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [3] as [VARCHAR] - [pk@gmail.comm]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [4] as [VARCHAR] - [John]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Koyande]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087345676]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421308]
+2021-04-30T11:26:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [9] as [BIGINT] - [1]
+2021-04-30T11:26:41.041Z] [com.prachi.controller.UserController] [http-nio-8081-exec-2] [74] [INFO ] User Updated successfully
+2021-04-30T11:52:36.036Z] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting TestApp on DESKTOP-1OBOCI6 with PID 16544 (started by user in C:\Users\user\eclipse-workspace1\SpringBootJunit_Poc6)
+2021-04-30T11:52:36.036Z] [org.springframework.boot.SpringApplication] [main] [675] [INFO ] No active profile set, falling back to default profiles: default
+2021-04-30T11:52:39.039Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-30T11:52:39.039Z] [org.springframework.mock.web.MockServletContext] [main] [444] [INFO ] Initializing Spring TestDispatcherServlet ''
+2021-04-30T11:52:39.039Z] [org.springframework.web.servlet.FrameworkServlet] [main] [524] [INFO ] Initializing Servlet ''
+2021-04-30T11:52:39.039Z] [org.springframework.web.servlet.FrameworkServlet] [main] [546] [INFO ] Completed initialization in 33 ms
+2021-04-30T11:52:39.039Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started TestApp in 4.042 seconds (JVM running for 6.386)
+2021-04-30T11:52:40.040Z] [com.prachi.controller.UserController] [main] [87] [INFO ] user searched by Firstname
+2021-04-30T11:52:40.040Z] [com.prachi.controller.UserController] [main] [67] [INFO ] User Registered Successfully
+2021-04-30T11:52:40.040Z] [com.prachi.controller.UserController] [main] [55] [INFO ] Getting All users
+2021-04-30T11:52:40.040Z] [com.prachi.controller.UserController] [main] [92] [INFO ] User searched By zipcode
+2021-04-30T11:52:40.040Z] [com.prachi.controller.UserController] [main] [74] [INFO ] User Updated successfully
+2021-04-30T11:52:40.040Z] [com.prachi.controller.UserController] [main] [81] [INFO ] User deleted successfully
+2021-04-30T11:52:40.040Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-2] [208] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-30T11:54:14.014Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-10] [94] [DEBUG] select next_val as id_val from hibernate_sequence for update
+2021-04-30T11:54:14.014Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-10] [94] [DEBUG] update hibernate_sequence set next_val= ? where next_val=?
+2021-04-30T11:54:14.014Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-10] [94] [DEBUG] insert into user_poc6 (city, country, email, first_name, last_name, phone_number, state, zip_code, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [3] as [VARCHAR] - [lk@gmail.m]
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [4] as [VARCHAR] - [llll]
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [5] as [VARCHAR] - [pqrs]
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355775]
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421308]
+2021-04-30T11:54:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [9] as [BIGINT] - [10]
+2021-04-30T11:54:14.014Z] [com.prachi.controller.UserController] [http-nio-8081-exec-10] [67] [INFO ] User Registered Successfully
+2021-04-30T11:54:41.041Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-1] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [pk@gmail.comm]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [John]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345676]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421308]
+2021-04-30T11:54:41.041Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-1] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [3] as [VARCHAR] - [lk@gmail.m]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [4] as [VARCHAR] - [llll]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [5] as [VARCHAR] - [pqrs]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355775]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421308]
+2021-04-30T11:54:41.041Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [9] as [BIGINT] - [1]
+2021-04-30T11:54:41.041Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-1] [137] [WARN ] SQL Error: 1062, SQLState: 23000
+2021-04-30T11:54:41.041Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-1] [142] [ERROR] Duplicate entry 'lk@gmail.m' for key 'user_poc6.UK_gx6yg32ng7dksnd7p08sngoo3'
+2021-04-30T11:54:41.041Z] [org.hibernate.internal.ExceptionMapperStandardImpl] [http-nio-8081-exec-1] [39] [ERROR] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2021-04-30T11:55:08.008Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-5] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [pk@gmail.comm]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [John]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345676]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421308]
+2021-04-30T11:55:08.008Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-5] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [3] as [VARCHAR] - [lk@gmail.m]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [4] as [VARCHAR] - [llll]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [5] as [VARCHAR] - [pqrs]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355775]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421308]
+2021-04-30T11:55:08.008Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [9] as [BIGINT] - [1]
+2021-04-30T11:55:08.008Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-5] [137] [WARN ] SQL Error: 1062, SQLState: 23000
+2021-04-30T11:55:08.008Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-5] [142] [ERROR] Duplicate entry 'lk@gmail.m' for key 'user_poc6.UK_gx6yg32ng7dksnd7p08sngoo3'
+2021-04-30T11:55:08.008Z] [org.hibernate.internal.ExceptionMapperStandardImpl] [http-nio-8081-exec-5] [39] [ERROR] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2021-04-30T11:55:19.019Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-7] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-7] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-7] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-7] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-7] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [pk@gmail.comm]
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-7] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [John]
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-7] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-7] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345676]
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-7] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-7] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421308]
+2021-04-30T11:55:19.019Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-7] [94] [DEBUG] delete from user_poc6 where id=?
+2021-04-30T11:55:19.019Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-7] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T11:55:19.019Z] [com.prachi.controller.UserController] [http-nio-8081-exec-7] [81] [INFO ] User deleted successfully
+2021-04-30T11:57:49.049Z] [com.prachi.controller.UserController] [http-nio-8081-exec-10] [87] [INFO ] user searched by Firstname
+2021-04-30T11:57:49.049Z] [org.hibernate.hql.internal.QueryTranslatorFactoryInitiator] [http-nio-8081-exec-10] [47] [INFO ] HHH000397: Using ASTQueryTranslatorFactory
+2021-04-30T11:57:49.049Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-10] [94] [DEBUG] select user0_.id as id1_0_, user0_.city as city2_0_, user0_.country as country3_0_, user0_.email as email4_0_, user0_.first_name as first_na5_0_, user0_.last_name as last_nam6_0_, user0_.phone_number as phone_nu7_0_, user0_.state as state8_0_, user0_.zip_code as zip_code9_0_ from user_poc6 user0_ where user0_.first_name=?
+2021-04-30T11:57:49.049Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [1] as [VARCHAR] - [John]
+2021-04-30T11:59:19.019Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-6] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T11:59:19.019Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-6] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T11:59:31.031Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-2] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T11:59:31.031Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-2] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T12:00:57.057Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-7] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:00:57.057Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-7] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T12:01:51.051Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-8] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [1] as [BIGINT] - [5]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [s@w]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345670]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421304]
+2021-04-30T12:01:51.051Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-8] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [3] as [VARCHAR] - [lk@gmail.m]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Prachi]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [5] as [VARCHAR] - [pqrs]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355775]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421301]
+2021-04-30T12:01:51.051Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [9] as [BIGINT] - [5]
+2021-04-30T12:01:51.051Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-8] [137] [WARN ] SQL Error: 1062, SQLState: 23000
+2021-04-30T12:01:51.051Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-8] [142] [ERROR] Duplicate entry 'lk@gmail.m' for key 'user_poc6.UK_gx6yg32ng7dksnd7p08sngoo3'
+2021-04-30T12:01:51.051Z] [org.hibernate.internal.ExceptionMapperStandardImpl] [http-nio-8081-exec-8] [39] [ERROR] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2021-04-30T12:02:12.012Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-10] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [1] as [BIGINT] - [5]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [s@w]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345670]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421304]
+2021-04-30T12:02:12.012Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-10] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [3] as [VARCHAR] - [lk@gmail.m]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Prachi]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Koyande]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355775]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421301]
+2021-04-30T12:02:12.012Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [9] as [BIGINT] - [5]
+2021-04-30T12:02:12.012Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-10] [137] [WARN ] SQL Error: 1062, SQLState: 23000
+2021-04-30T12:02:12.012Z] [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] [http-nio-8081-exec-10] [142] [ERROR] Duplicate entry 'lk@gmail.m' for key 'user_poc6.UK_gx6yg32ng7dksnd7p08sngoo3'
+2021-04-30T12:02:12.012Z] [org.hibernate.internal.ExceptionMapperStandardImpl] [http-nio-8081-exec-10] [39] [ERROR] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2021-04-30T12:03:07.007Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-1] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [1] as [BIGINT] - [5]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [kalyan]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [s@w]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Mathew]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345670]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-1] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421304]
+2021-04-30T12:03:07.007Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-1] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [3] as [VARCHAR] - [po@gmail.com]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Sameer]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Koyande]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355774]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421301]
+2021-04-30T12:03:07.007Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-1] [65] [TRACE] binding parameter [9] as [BIGINT] - [5]
+2021-04-30T12:03:07.007Z] [com.prachi.controller.UserController] [http-nio-8081-exec-1] [74] [INFO ] User Updated successfully
+2021-04-30T12:04:06.006Z] [com.prachi.controller.UserController] [http-nio-8081-exec-5] [87] [INFO ] user searched by Firstname
+2021-04-30T12:04:06.006Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-5] [94] [DEBUG] select user0_.id as id1_0_, user0_.city as city2_0_, user0_.country as country3_0_, user0_.email as email4_0_, user0_.first_name as first_na5_0_, user0_.last_name as last_nam6_0_, user0_.phone_number as phone_nu7_0_, user0_.state as state8_0_, user0_.zip_code as zip_code9_0_ from user_poc6 user0_ where user0_.first_name=?
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Sameer]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [5]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [po@gmail.com]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087355774]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:04:06.006Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421301]
+2021-04-30T12:04:56.056Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-4] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-4] [65] [TRACE] binding parameter [1] as [BIGINT] - [5]
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [po@gmail.com]
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087355774]
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:04:56.056Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421301]
+2021-04-30T12:06:14.014Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-10] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:06:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [1] as [BIGINT] - [1]
+2021-04-30T12:06:27.027Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-3] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [1] as [BIGINT] - [5]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [po@gmail.com]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sameer]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087355774]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421301]
+2021-04-30T12:06:27.027Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-3] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [3] as [VARCHAR] - [po@gmail.comm]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Sagar]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Koyande]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355724]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421301]
+2021-04-30T12:06:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [9] as [BIGINT] - [5]
+2021-04-30T12:06:27.027Z] [com.prachi.controller.UserController] [http-nio-8081-exec-3] [74] [INFO ] User Updated successfully
+2021-04-30T12:09:34.034Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-5] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-5] [65] [TRACE] binding parameter [1] as [BIGINT] - [10]
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [lk@gmail.m]
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [llll]
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [pqrs]
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087355775]
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:09:34.034Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-5] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421308]
+2021-04-30T12:15:27.027Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-8] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [1] as [BIGINT] - [8]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [ss@gmail.com]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sagar]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Singh]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345671]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421304]
+2021-04-30T12:15:27.027Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-8] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [3] as [VARCHAR] - [po@gmail.commm]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Sagar]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Koyande]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355812]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421301]
+2021-04-30T12:15:27.027Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [9] as [BIGINT] - [8]
+2021-04-30T12:15:27.027Z] [com.prachi.controller.UserController] [http-nio-8081-exec-8] [74] [INFO ] User Updated successfully
+2021-04-30T12:17:15.015Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-3] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [1] as [BIGINT] - [8]
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [po@gmail.commm]
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sagar]
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087355812]
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:17:15.015Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421301]
+2021-04-30T12:20:09.009Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-6] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-6] [65] [TRACE] binding parameter [1] as [BIGINT] - [9]
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-6] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-6] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-6] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [pk@gmail.com]
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-6] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Prachi]
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-6] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-6] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345673]
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-6] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:20:09.009Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-6] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421308]
+2021-04-30T12:22:05.005Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-4] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-4] [65] [TRACE] binding parameter [1] as [BIGINT] - [8]
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [po@gmail.commm]
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sagar]
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087355812]
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:22:05.005Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-4] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421301]
+2021-04-30T12:22:14.014Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-8] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-8] [65] [TRACE] binding parameter [1] as [BIGINT] - [9]
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [pk@gmail.com]
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Prachi]
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087345673]
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:22:14.014Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-8] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421308]
+2021-04-30T12:22:48.048Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-9] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [1] as [BIGINT] - [5]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [po@gmail.comm]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sagar]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087355724]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-9] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421301]
+2021-04-30T12:22:48.048Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-9] [94] [DEBUG] update user_poc6 set city=?, country=?, email=?, first_name=?, last_name=?, phone_number=?, state=?, zip_code=? where id=?
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Thane]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [2] as [VARCHAR] - [India]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [3] as [VARCHAR] - [po@gmail.commmm]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [4] as [VARCHAR] - [Sagar]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [5] as [VARCHAR] - [Koyande]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [6] as [VARCHAR] - [9087355945]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [7] as [VARCHAR] - [MHA]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [8] as [VARCHAR] - [421301]
+2021-04-30T12:22:48.048Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-9] [65] [TRACE] binding parameter [9] as [BIGINT] - [5]
+2021-04-30T12:22:48.048Z] [com.prachi.controller.UserController] [http-nio-8081-exec-9] [74] [INFO ] User Updated successfully
+2021-04-30T12:23:42.042Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-10] [94] [DEBUG] select user0_.id as id1_0_0_, user0_.city as city2_0_0_, user0_.country as country3_0_0_, user0_.email as email4_0_0_, user0_.first_name as first_na5_0_0_, user0_.last_name as last_nam6_0_0_, user0_.phone_number as phone_nu7_0_0_, user0_.state as state8_0_0_, user0_.zip_code as zip_code9_0_0_ from user_poc6 user0_ where user0_.id=?
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-10] [65] [TRACE] binding parameter [1] as [BIGINT] - [5]
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([city2_0_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([country3_0_0_] : [VARCHAR]) - [India]
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([email4_0_0_] : [VARCHAR]) - [po@gmail.commmm]
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([first_na5_0_0_] : [VARCHAR]) - [Sagar]
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([last_nam6_0_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([phone_nu7_0_0_] : [VARCHAR]) - [9087355945]
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([state8_0_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:23:42.042Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-10] [61] [TRACE] extracted value ([zip_code9_0_0_] : [VARCHAR]) - [421301]
+2021-04-30T12:24:22.022Z] [com.prachi.controller.UserController] [http-nio-8081-exec-3] [87] [INFO ] user searched by Firstname
+2021-04-30T12:24:22.022Z] [org.hibernate.engine.jdbc.spi.SqlStatementLogger] [http-nio-8081-exec-3] [94] [DEBUG] select user0_.id as id1_0_, user0_.city as city2_0_, user0_.country as country3_0_, user0_.email as email4_0_, user0_.first_name as first_na5_0_, user0_.last_name as last_nam6_0_, user0_.phone_number as phone_nu7_0_, user0_.state as state8_0_, user0_.zip_code as zip_code9_0_ from user_poc6 user0_ where user0_.first_name=?
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicBinder] [http-nio-8081-exec-3] [65] [TRACE] binding parameter [1] as [VARCHAR] - [Sagar]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [5]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [po@gmail.commmm]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [Sagar]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087355945]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421301]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([id1_0_] : [BIGINT]) - [8]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([city2_0_] : [VARCHAR]) - [Thane]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([country3_0_] : [VARCHAR]) - [India]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([email4_0_] : [VARCHAR]) - [po@gmail.commm]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([first_na5_0_] : [VARCHAR]) - [Sagar]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([last_nam6_0_] : [VARCHAR]) - [Koyande]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([phone_nu7_0_] : [VARCHAR]) - [9087355812]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([state8_0_] : [VARCHAR]) - [MHA]
+2021-04-30T12:24:22.022Z] [org.hibernate.type.descriptor.sql.BasicExtractor] [http-nio-8081-exec-3] [61] [TRACE] extracted value ([zip_code9_0_] : [VARCHAR]) - [421301]
